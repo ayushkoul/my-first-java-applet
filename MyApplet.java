@@ -15,6 +15,5 @@ g.setColor(Color.pink);
 g.fillOval(170,200,30,30);  
 g.drawArc(90,150,30,30,30,270);  
 g.fillArc(270,150,30,30,0,180);  
-  
 }  
 }  
